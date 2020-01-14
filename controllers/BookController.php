@@ -51,7 +51,7 @@ class BookController extends Controller
             ]);
         }
     }
-
+//Controlador Book
     /**
      * Displays a single Book model.
      * @param integer $id
